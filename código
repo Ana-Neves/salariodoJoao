@@ -1,0 +1,20 @@
+void main(){
+  //Entrada de dados
+  var comissaoamais = 184.54;
+  var salario = 500;
+ 
+ 
+  
+  
+  
+  // Processamento
+ 
+  var salariomaiscomissao = comissaoamais + salario;
+  
+  
+  // Saída (show the results) 
+  
+  
+  print('João receberá no fim do mês $salariomaiscomissao');
+ 
+}
